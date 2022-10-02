@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=FFA600&size=60&center=true&vCenter=true&width=900&height=100&lines=Hello+%F0%9F%91%8B+My+Name+is+Jeet.;Aspiring+Software+Engineer.;Feel+Free+to+Get+in+Touch.+%F0%9F%98%84;Nice+to+Meet+You!!!...)](https://github.com/jeetjawale)
 
-
-Hi there! I'm an aspiring software engineer who enjoys challenges, spend most of his time solving problems, building complex algorithms, and working with cool people. Pushing the limits of technology to make people’s life (and mine) easier ↕🐛 .I am currently pursuing my B.Tech. in Computer Engineering.
+<h3 align="left"Hi there!:</h3>
+<p align="left">  I'm an aspiring software engineer who enjoys challenges, spend most of his time solving problems, building complex algorithms, and working with cool people. Pushing the limits of technology to make people’s life (and mine) easier ↕🐛 .I am currently pursuing my B.Tech. in Computer Engineering. </p>
 
 - 📫  How to reach me **jeetjawale03@gmail.com**
 - 🌱  I'm a tech enthusiast

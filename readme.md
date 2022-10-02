@@ -23,7 +23,7 @@
 
 <h3> My Github contributions getting eaten by a 🐍</h2>
 <p align="left">
-  <img alig src="https://raw.githubusercontent.com/jeetjawale/jeetjawale/ab00cf3ccccf5f8be08e391666665f6615cd943c/github-contribution-grid-snake.svg" />
+<img alig src="https://raw.githubusercontent.com/jeetjawale/jeetjawale/ab00cf3ccccf5f8be08e391666665f6615cd943c/github-contribution-grid-snake.svg" />
 </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=FFA600&size=60&center=true&vCenter=true&width=900&height=100&lines=Thanks+For+Visiting+My+Profile!!.;Visit+Again!...)](https://github.com/jeetjawale)

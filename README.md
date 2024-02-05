@@ -3,8 +3,8 @@
   <h1 align="center"><b>Hello there, I'm Jeet 👋</b></h1>
 </p>
 
-<p>
-  <h4 align="center"><b>"Talk is cheap. Show me the code"</b></h4>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Centered Image">
 </p>
 
 <p align="center">
@@ -37,14 +37,25 @@
 
 ### :zap: Github Stats
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=jeetjawale&theme=dark&show_icons=true">
-  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeetjawale&layout=compact">
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=jeetjawale&theme=gotham&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeetjawale&theme=gotham&hide_border=false" alt="GitHub Streak Stats" align="right">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeetjawale&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
+</p>
 
 <br>
+
+<div align="center">
+  <h3>😂 Random Dev Meme</h3>
+  <img src="https://randommeme-five.vercel.app/" alt="😂 Random Dev Meme" style="height: 400px;">
+</div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=FFA600&size=60&center=true&vCenter=true&width=900&height=100&lines=Thanks+For+Visiting+My+Profile!!.;Visit+Again!...)](https://github.com/jeetjawale)
 
 <!--[website]: -->
 [instagram]: https://www.instagram.com/_jeeettt_/
 [linkedin]: https://www.linkedin.com/in/jeetjawale/
+

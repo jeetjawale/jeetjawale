@@ -16,9 +16,9 @@
 
 <br>
 
+### I am pursuing B. Tech in Computer Engineering
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-### I am pursuing B. Tech in Computer Engineering
 - 🔭 I’m currently working on personal portfolio website.
 - 🌱 I’m currently learning Game Development.
 - 👯 I’m looking to collaborate with other Developers :wink:

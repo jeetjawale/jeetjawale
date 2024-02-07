@@ -40,19 +40,22 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jeetjawale&theme=gotham&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" align="center">
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeetjawale&theme=gotham&hide_border=false" alt="GitHub Streak Stats" align="center">
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeetjawale&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
 </p>
-
 <br>
 
-### 😂 Randon Dev Meme
 <div align="center">
+  <h3>😂 Random Dev Meme</h3>
   <img src="https://randommeme-five.vercel.app/" alt="😂 Random Dev Meme" style="height: 300px;">
 </div>
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=FFA600&size=60&center=true&vCenter=true&width=900&height=100&lines=Thanks+For+Visiting+My+Profile!!.;Visit+Again!...)](https://github.com/jeetjawale)
 

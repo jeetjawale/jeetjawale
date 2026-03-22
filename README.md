@@ -15,5 +15,6 @@
 </div>
 
 
-![My GitHub Game](game.gif)
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jeetjawale/jeetjawale/main/game.gif" />
+</p>

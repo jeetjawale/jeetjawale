@@ -1,23 +1,22 @@
-## Hi there 👋
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> I'm Jeet</h1>
 
-<!--
-**jeetjawale/jeetjawale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=jeetjawale">
+    <img src="https://komarev.com/ghpvc/?username=jeetjawale&label=Profile%20views&color=00FFFF&style=flat-square" alt="jeetjawale's profile views" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=jeetjawale&theme=gruvbox&hide_border=true&cache_seconds=86400" alt="jeetjawale's GitHub Streak" width="49%" />
+</p>
+<div align="center">
+  <img src="profile-3d-city.svg" alt="3D City" width="100%" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jeetjawale/jeetjawale/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jeetjawale/jeetjawale/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jeetjawale/jeetjawale/output/pacman-contribution-graph.svg">
-</picture>
 
-###
+## 🛠️ Languages & Tools
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
+

@@ -2,7 +2,7 @@ name: Update Space Shooter Game
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # daily
+    - cron: '*/30 * * * *'
   workflow_dispatch:
 
 permissions:
@@ -22,7 +22,6 @@ jobs:
         uses: czl9707/gh-space-shooter@v2
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
-          username: jeetjawale
           output-path: game.gif
-          strategy: random
+          strategy: column
           fps: 40

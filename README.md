@@ -1,15 +1,9 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> I'm Jeet</h1>
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=jeetjawale">
-    <img src="https://komarev.com/ghpvc/?username=jeetjawale&label=Profile%20views&color=00FFFF&style=flat-square" alt="jeetjawale's profile views" />
-  </a>
-</p>
 
 ## 🛠️ Languages & Tools
 
 <p>
-  <!-- Languages -->
   <a href="https://python.org"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a>
   <a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/></a>
   <a href="https://kernel.org"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/></a>
@@ -36,7 +30,3 @@
   <img src="https://raw.githubusercontent.com/jeetjawale/jeetjawale/main/game.gif" />
 </p>
 
-### ✍️ Random Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>

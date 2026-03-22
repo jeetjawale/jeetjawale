@@ -15,8 +15,5 @@
 </div>
 
 
-## 🛠️ Languages & Tools
-<p align="center">
-  <img src="https://raw.githubusercontent.com/jeetjawale/jeetjawale/main/game.gif" width="100%" />
-</p>
+![My GitHub Game](game.gif)
 

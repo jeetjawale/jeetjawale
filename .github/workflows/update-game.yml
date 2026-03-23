@@ -27,5 +27,5 @@ jobs:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           username: jeetjawale
           output-path: game.gif
-          strategy: column
+          strategy: row
           fps: 40

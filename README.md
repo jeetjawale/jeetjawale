@@ -21,11 +21,3 @@
   <a href="https://flutter.dev"><img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/></a>
   <a href="https://zed.dev"><img src="https://img.shields.io/badge/Zed-FFFFFF?style=flat-square&logo=zedindustries&logoColor=084CCF"/></a>
 </p>
-
-<!-- <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=jeetjawale&theme=gruvbox&hide_border=true&cache_seconds=86400" alt="jeetjawale's GitHub Streak" />
-</p> -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/jeetjawale/jeetjawale/main/game.gif" />
-</p>
-

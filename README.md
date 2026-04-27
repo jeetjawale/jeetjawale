@@ -1,5 +1,3 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:30a46c&height=120&section=header&animation=fadeIn"/>
-
 <p align="center">hey there 👋 welcome to my corner of github</p>
 
 
@@ -85,5 +83,3 @@ $ curl -s https://contact
 
 *`rm -rf bad_code && git commit -m "ship it"`*
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:30a46c,50:0a2a1a,100:0d1117&height=100&section=footer"/>

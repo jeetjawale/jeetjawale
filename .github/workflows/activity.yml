@@ -1,18 +1,25 @@
 name: Update README with activity
 
+permissions:
+  contents: write
+
 on:
   schedule:
-    - cron: "0 */6 * * *"  # runs every 6 hours
+    - cron: "0 */6 * * *"
   workflow_dispatch:
 
 jobs:
   update-readme:
-    name: Update README
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
+
+      - name: Setup Git config
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
       - name: Update README with GitHub activity
         uses: jamesgeorge007/github-activity-readme@v0.5.0

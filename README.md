@@ -47,7 +47,7 @@
 
 ---
 
-#### // activity
+#### `// activity`
 
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#374](https://github.com/DaKheera47/job-ops/pull/374) in [DaKheera47/job-ops](https://github.com/DaKheera47/job-ops)

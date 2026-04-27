@@ -70,7 +70,7 @@ $ curl -s https://contact
 {
   "github"   : "github.com/jeetjawale",
   "portfolio": "jeetjawale.github.io",
-  "linkedin" : "linkedin.com/in/yourprofile",
+  "linkedin" : "linkedin.com/in/jeetjawale",
   "email"    : "jeetjawale@zohomail.in",
   "status"   : "open to opportunities ✓"
 }

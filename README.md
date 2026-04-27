@@ -1,23 +1,89 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> I'm Jeet</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:30a46c&height=120&section=header&animation=fadeIn"/>
+
+<p align="center">hey there 👋 welcome to my corner of github</p>
 
 
-## 🛠️ Languages & Tools
+---
 
+`// languages`
 <p>
-  <a href="https://python.org"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a>
-  <a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/></a>
-  <a href="https://kernel.org"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/></a>
-  <a href="https://www.fedoraproject.org/"><img src="https://img.shields.io/badge/Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white"/></a>
-  <a href="https://qgis.org"><img src="https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white"/></a>
-  <a href="https://riverbankcomputing.com/software/pyqt/"><img src="https://img.shields.io/badge/PyQt-41CD52?style=flat-square&logo=qt&logoColor=white"/></a>
-  <a href="https://qgis.org/pyqgis/"><img src="https://img.shields.io/badge/PyQGIS-589632?style=flat-square&logo=qgis&logoColor=white"/></a>
-  <a href="https://git-scm.com"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/></a>
-  <a href="https://docker.com"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/></a>
-  <a href="https://cloud.google.com"><img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/></a>
-  <a href="https://firebase.google.com"><img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white"/></a>
-  <a href="https://javascript.info"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/></a>
-  <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/></a>
-  <a href="https://react.dev"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/></a>
-  <a href="https://flutter.dev"><img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/></a>
-  <a href="https://zed.dev"><img src="https://img.shields.io/badge/Zed-FFFFFF?style=flat-square&logo=zedindustries&logoColor=084CCF"/></a>
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/></a>
+  <a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=4EAA25"/></a>
+  <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1"/></a>
+  <a href="https://dart.dev/"><img src="https://img.shields.io/badge/Dart-0d1117?style=for-the-badge&logo=dart&logoColor=0175C2"/></a>
 </p>
+
+`// linux & devops`
+<p>
+  <a href="https://www.kernel.org/"><img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624"/></a>
+  <a href="https://fedoraproject.org/"><img src="https://img.shields.io/badge/Fedora-0d1117?style=for-the-badge&logo=fedora&logoColor=51A2DA"/></a>
+  <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED"/></a>
+  <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032"/></a>
+  <a href="https://cloud.google.com/"><img src="https://img.shields.io/badge/GCP-0d1117?style=for-the-badge&logo=googlecloud&logoColor=4285F4"/></a>
+</p>
+
+`// ci/cd`
+<p>
+  <a href="https://github.com/features/actions"><img src="https://img.shields.io/badge/GitHub_Actions-0d1117?style=for-the-badge&logo=githubactions&logoColor=2088FF"/></a>
+</p>
+
+`// gis & geospatial`
+<p>
+  <a href="https://qgis.org/"><img src="https://img.shields.io/badge/QGIS-0d1117?style=for-the-badge&logo=qgis&logoColor=589632"/></a>
+  <a href="https://docs.qgis.org/latest/en/docs/pyqgis_developer_cookbook/"><img src="https://img.shields.io/badge/PyQGIS-0d1117?style=for-the-badge&logo=qgis&logoColor=589632"/></a>
+</p>
+
+`// frameworks`
+<p>
+  <a href="https://react.dev/"><img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB"/></a>
+  <a href="https://flutter.dev/"><img src="https://img.shields.io/badge/Flutter-0d1117?style=for-the-badge&logo=flutter&logoColor=02569B"/></a>
+  <a href="https://riverbankcomputing.com/software/pyqt/"><img src="https://img.shields.io/badge/PyQt-0d1117?style=for-the-badge&logo=qt&logoColor=41CD52"/></a>
+</p>
+
+`// tools`
+<p>
+  <a href="https://firebase.google.com/"><img src="https://img.shields.io/badge/Firebase-0d1117?style=for-the-badge&logo=firebase&logoColor=DD2C00"/></a>
+  <a href="https://zed.dev/"><img src="https://img.shields.io/badge/Zed-0d1117?style=for-the-badge&logo=zedindustries&logoColor=084CCF"/></a>
+</p>
+
+
+---
+
+#### `// signal`
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=jeetjawale&show_icons=true&theme=github_dark&hide_border=true&title_color=30a46c&icon_color=30a46c&bg_color=0d1117&text_color=c9d1d9" height="160"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeetjawale&layout=compact&theme=github_dark&hide_border=true&title_color=30a46c&bg_color=0d1117&text_color=c9d1d9" height="160"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jeetjawale&theme=dark&hide_border=true&background=0d1117&ring=30a46c&fire=30a46c&currStreakLabel=30a46c" />
+</div>
+
+---
+
+#### `// find me`
+
+```bash
+$ curl -s https://contact
+
+{
+  "github"   : "github.com/jeetjawale",
+  "portfolio": "jeetjawale.github.io",
+  "linkedin" : "linkedin.com/in/yourprofile",
+  "email"    : "jeetjawale@zohomail.in",
+  "status"   : "open to opportunities ✓"
+}
+```
+
+---
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=jeetjawale&color=30a46c&style=flat-square&label=profile+views" />
+
+*`rm -rf bad_code && git commit -m "ship it"`*
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:30a46c,50:0a2a1a,100:0d1117&height=100&section=footer"/>

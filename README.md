@@ -45,8 +45,15 @@
   <a href="https://zed.dev/"><img src="https://img.shields.io/badge/Zed-0d1117?style=for-the-badge&logo=zedindustries&logoColor=084CCF"/></a>
 </p>
 
+---
+
+#### // activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ---
+
 
 #### `// signal`
 

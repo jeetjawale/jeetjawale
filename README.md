@@ -50,11 +50,11 @@
 #### `// activity`
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#969](https://github.com/FedoraQt/MediaWriter/pull/969#issuecomment-4379168334) in [FedoraQt/MediaWriter](https://github.com/FedoraQt/MediaWriter)
-2. 💪 Opened PR [#969](https://github.com/FedoraQt/MediaWriter/pull/969) in [FedoraQt/MediaWriter](https://github.com/FedoraQt/MediaWriter)
-3. 🗣 Commented on [#968](https://github.com/FedoraQt/MediaWriter/issues/968#issuecomment-4364063589) in [FedoraQt/MediaWriter](https://github.com/FedoraQt/MediaWriter)
-4. 🎉 Merged PR [#374](https://github.com/DaKheera47/job-ops/pull/374) in [DaKheera47/job-ops](https://github.com/DaKheera47/job-ops)
-5. 💪 Opened PR [#374](https://github.com/DaKheera47/job-ops/pull/374) in [DaKheera47/job-ops](https://github.com/DaKheera47/job-ops)
+1. 💪 Opened PR [#1351](https://github.com/Tracer-Cloud/opensre/pull/1351) in [Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre)
+2. 🗣 Commented on [#1317](https://github.com/Tracer-Cloud/opensre/issues/1317#issuecomment-4383382072) in [Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre)
+3. 🗣 Commented on [#969](https://github.com/FedoraQt/MediaWriter/pull/969#issuecomment-4379168334) in [FedoraQt/MediaWriter](https://github.com/FedoraQt/MediaWriter)
+4. 💪 Opened PR [#969](https://github.com/FedoraQt/MediaWriter/pull/969) in [FedoraQt/MediaWriter](https://github.com/FedoraQt/MediaWriter)
+5. 🗣 Commented on [#968](https://github.com/FedoraQt/MediaWriter/issues/968#issuecomment-4364063589) in [FedoraQt/MediaWriter](https://github.com/FedoraQt/MediaWriter)
 <!--END_SECTION:activity-->
 
 ---

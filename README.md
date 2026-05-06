@@ -50,11 +50,11 @@
 #### `// activity`
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#460](https://github.com/DaKheera47/job-ops/pull/460) in [DaKheera47/job-ops](https://github.com/DaKheera47/job-ops)
-2. 🎉 Merged PR [#1351](https://github.com/Tracer-Cloud/opensre/pull/1351) in [Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre)
-3. 💪 Opened PR [#1351](https://github.com/Tracer-Cloud/opensre/pull/1351) in [Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre)
-4. 🗣 Commented on [#1317](https://github.com/Tracer-Cloud/opensre/issues/1317#issuecomment-4383382072) in [Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre)
-5. 🗣 Commented on [#969](https://github.com/FedoraQt/MediaWriter/pull/969#issuecomment-4379168334) in [FedoraQt/MediaWriter](https://github.com/FedoraQt/MediaWriter)
+1. 🎉 Merged PR [#460](https://github.com/DaKheera47/job-ops/pull/460) in [DaKheera47/job-ops](https://github.com/DaKheera47/job-ops)
+2. 💪 Opened PR [#460](https://github.com/DaKheera47/job-ops/pull/460) in [DaKheera47/job-ops](https://github.com/DaKheera47/job-ops)
+3. 🎉 Merged PR [#1351](https://github.com/Tracer-Cloud/opensre/pull/1351) in [Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre)
+4. 💪 Opened PR [#1351](https://github.com/Tracer-Cloud/opensre/pull/1351) in [Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre)
+5. 🗣 Commented on [#1317](https://github.com/Tracer-Cloud/opensre/issues/1317#issuecomment-4383382072) in [Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre)
 <!--END_SECTION:activity-->
 
 ---

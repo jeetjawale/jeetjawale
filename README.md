@@ -63,12 +63,6 @@
 #### `// signal`
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=jeetjawale&show_icons=true&theme=github_dark&hide_border=true&title_color=30a46c&icon_color=30a46c&bg_color=0d1117&text_color=c9d1d9" height="160"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeetjawale&layout=compact&theme=github_dark&hide_border=true&title_color=30a46c&bg_color=0d1117&text_color=c9d1d9" height="160"/>
-</div>
-
-<div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeetjawale&theme=dark&hide_border=true&background=0d1117&ring=30a46c&fire=30a46c&currStreakLabel=30a46c" />
 </div>
 

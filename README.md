@@ -50,11 +50,11 @@
 #### `// activity`
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#460](https://github.com/DaKheera47/job-ops/pull/460) in [DaKheera47/job-ops](https://github.com/DaKheera47/job-ops)
-2. 💪 Opened PR [#460](https://github.com/DaKheera47/job-ops/pull/460) in [DaKheera47/job-ops](https://github.com/DaKheera47/job-ops)
-3. 🎉 Merged PR [#1351](https://github.com/Tracer-Cloud/opensre/pull/1351) in [Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre)
-4. 💪 Opened PR [#1351](https://github.com/Tracer-Cloud/opensre/pull/1351) in [Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre)
-5. 🗣 Commented on [#1317](https://github.com/Tracer-Cloud/opensre/issues/1317#issuecomment-4383382072) in [Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre)
+1. 🚀 Published release [Chapter 2 Complete - Docker Basics](https://github.com/jeetjawale/devops-with-docker-spring-2026/releases/tag/v1.0.0) in [jeetjawale/devops-with-docker-spring-2026](https://github.com/jeetjawale/devops-with-docker-spring-2026)
+2. 🎉 Merged PR [#460](https://github.com/DaKheera47/job-ops/pull/460) in [DaKheera47/job-ops](https://github.com/DaKheera47/job-ops)
+3. 💪 Opened PR [#460](https://github.com/DaKheera47/job-ops/pull/460) in [DaKheera47/job-ops](https://github.com/DaKheera47/job-ops)
+4. 🎉 Merged PR [#1351](https://github.com/Tracer-Cloud/opensre/pull/1351) in [Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre)
+5. 💪 Opened PR [#1351](https://github.com/Tracer-Cloud/opensre/pull/1351) in [Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre)
 <!--END_SECTION:activity-->
 
 ---

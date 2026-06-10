@@ -75,9 +75,9 @@ $ curl -s https://contact
 
 {
   "github"   : "github.com/jeetjawale",
-  "portfolio": "jeetjawale.github.io",
+  "portfolio": "jeetjawale.dev",
   "linkedin" : "linkedin.com/in/jeetjawale",
-  "email"    : "jeetjawale@zohomail.in",
+  "email"    : "mail@jeetjawale.dev",
   "status"   : "open to opportunities ✓"
 }
 ```

@@ -50,11 +50,11 @@
 #### `// activity`
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Chapter 2 Complete - Docker Basics](https://github.com/jeetjawale/devops-with-docker-spring-2026/releases/tag/v1.0.0) in [jeetjawale/devops-with-docker-spring-2026](https://github.com/jeetjawale/devops-with-docker-spring-2026)
-2. 🎉 Merged PR [#460](https://github.com/DaKheera47/job-ops/pull/460) in [DaKheera47/job-ops](https://github.com/DaKheera47/job-ops)
-3. 💪 Opened PR [#460](https://github.com/DaKheera47/job-ops/pull/460) in [DaKheera47/job-ops](https://github.com/DaKheera47/job-ops)
-4. 🎉 Merged PR [#1351](https://github.com/Tracer-Cloud/opensre/pull/1351) in [Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre)
-5. 💪 Opened PR [#1351](https://github.com/Tracer-Cloud/opensre/pull/1351) in [Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre)
+1. ❌ Closed PR [#19](https://github.com/jeetjawale/sysman/pull/19) in [jeetjawale/sysman](https://github.com/jeetjawale/sysman)
+2. 🗣 Commented on [#19](https://github.com/jeetjawale/sysman/pull/19#issuecomment-5068418477) in [jeetjawale/sysman](https://github.com/jeetjawale/sysman)
+3. ❌ Closed PR [#17](https://github.com/jeetjawale/sysman/pull/17) in [jeetjawale/sysman](https://github.com/jeetjawale/sysman)
+4. 🗣 Commented on [#17](https://github.com/jeetjawale/sysman/pull/17#issuecomment-5068418101) in [jeetjawale/sysman](https://github.com/jeetjawale/sysman)
+5. 🗣 Commented on [#15](https://github.com/jeetjawale/sysman/pull/15#issuecomment-5068417793) in [jeetjawale/sysman](https://github.com/jeetjawale/sysman)
 <!--END_SECTION:activity-->
 
 ---

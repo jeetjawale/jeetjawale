@@ -1,4 +1,5 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> I'm Jeet</h1>
+
 <p align="center">welcome to my corner of github</p>
 
 ---
@@ -8,22 +9,50 @@
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/></a>
   <a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=4EAA25"/></a>
+  <a href="https://learn.microsoft.com/powershell/"><img src="https://img.shields.io/badge/PowerShell-0d1117?style=for-the-badge"/></a>
   <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1"/></a>
+  <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479A1"/></a>
   <a href="https://dart.dev/"><img src="https://img.shields.io/badge/Dart-0d1117?style=for-the-badge&logo=dart&logoColor=0175C2"/></a>
 </p>
 
-`// linux & devops`
+`// linux & windows`
 <p>
   <a href="https://www.kernel.org/"><img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624"/></a>
   <a href="https://fedoraproject.org/"><img src="https://img.shields.io/badge/Fedora-0d1117?style=for-the-badge&logo=fedora&logoColor=51A2DA"/></a>
+  <a href="https://www.microsoft.com/windows-server"><img src="https://img.shields.io/badge/Windows_Server-0d1117?style=for-the-badge"/></a>
+  <img src="https://img.shields.io/badge/Active_Directory-0d1117?style=for-the-badge"/>
+</p>
+
+`// networking`
+<p>
+  <a href="https://www.cisco.com/"><img src="https://img.shields.io/badge/Cisco_IOS-0d1117?style=for-the-badge&logo=cisco&logoColor=1BA0D7"/></a>
+  <img src="https://img.shields.io/badge/OSPF_%2F_EIGRP_%2F_BGP-0d1117?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/VLAN_%2F_STP-0d1117?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ACL_%2F_NAT-0d1117?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/IPv6-0d1117?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SDN_%2F_Mininet-0d1117?style=for-the-badge"/>
+</p>
+
+`// devops`
+<p>
   <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED"/></a>
+  <a href="https://kubernetes.io/"><img src="https://img.shields.io/badge/Kubernetes-0d1117?style=for-the-badge&logo=kubernetes&logoColor=326CE5"/></a>
+  <a href="https://www.ansible.com/"><img src="https://img.shields.io/badge/Ansible-0d1117?style=for-the-badge&logo=ansible&logoColor=EE0000"/></a>
+  <a href="https://www.terraform.io/"><img src="https://img.shields.io/badge/Terraform-0d1117?style=for-the-badge&logo=terraform&logoColor=844FBA"/></a>
+  <a href="https://prometheus.io/"><img src="https://img.shields.io/badge/Prometheus-0d1117?style=for-the-badge&logo=prometheus&logoColor=E6522C"/></a>
   <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032"/></a>
-  <a href="https://cloud.google.com/"><img src="https://img.shields.io/badge/GCP-0d1117?style=for-the-badge&logo=googlecloud&logoColor=4285F4"/></a>
 </p>
 
 `// ci/cd`
 <p>
   <a href="https://github.com/features/actions"><img src="https://img.shields.io/badge/GitHub_Actions-0d1117?style=for-the-badge&logo=githubactions&logoColor=2088FF"/></a>
+  <a href="https://www.jenkins.io/"><img src="https://img.shields.io/badge/Jenkins-0d1117?style=for-the-badge&logo=jenkins&logoColor=D24939"/></a>
+</p>
+
+`// cloud`
+<p>
+  <a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-0d1117?style=for-the-badge"/></a>
+  <a href="https://cloud.google.com/"><img src="https://img.shields.io/badge/GCP-0d1117?style=for-the-badge&logo=googlecloud&logoColor=4285F4"/></a>
 </p>
 
 `// gis & geospatial`
@@ -46,19 +75,6 @@
 </p>
 
 ---
-
-#### `// activity`
-
-<!--START_SECTION:activity-->
-1. 🚀 Published release [Exercise 1.4 - The project, step 2](https://github.com/jeetjawale/devops-with-kubernetes-2026/releases/tag/1.4) in [jeetjawale/devops-with-kubernetes-2026](https://github.com/jeetjawale/devops-with-kubernetes-2026)
-2. 🚀 Published release [Exercise 1.3 - Declarative approach](https://github.com/jeetjawale/devops-with-kubernetes-2026/releases/tag/1.3) in [jeetjawale/devops-with-kubernetes-2026](https://github.com/jeetjawale/devops-with-kubernetes-2026)
-3. 🚀 Published release [Exercise 1.2 - The project, step 1](https://github.com/jeetjawale/devops-with-kubernetes-2026/releases/tag/1.2) in [jeetjawale/devops-with-kubernetes-2026](https://github.com/jeetjawale/devops-with-kubernetes-2026)
-4. 🚀 Published release [Exercise 1.1 - Getting started](https://github.com/jeetjawale/devops-with-kubernetes-2026/releases/tag/1.1) in [jeetjawale/devops-with-kubernetes-2026](https://github.com/jeetjawale/devops-with-kubernetes-2026)
-5. 🗣 Commented on [#15](https://github.com/jeetjawale/sysman/pull/15#issuecomment-5068417793) in [jeetjawale/sysman](https://github.com/jeetjawale/sysman)
-<!--END_SECTION:activity-->
-
----
-
 
 #### `// signal`
 

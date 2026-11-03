@@ -1,17 +1,18 @@
+
 name: Update README activity
 
 on:
   schedule:
-    - cron: "*/30 * * * *"       # every 30 minutes
-  workflow_dispatch:              # the "Run workflow" button in the Actions tab
-  push:                           # re-run when you edit the script or this file
+    - cron: "30 18 * * *" # Daily at 12:00 AM IST
+  workflow_dispatch:
+  push:
     branches: [main, master]
     paths:
       - ".github/scripts/update_activity.py"
       - ".github/workflows/update-readme.yml"
 
 permissions:
-  contents: write                 # needed to commit the README
+  contents: write
 
 concurrency:
   group: update-readme
@@ -21,28 +22,31 @@ jobs:
   update:
     runs-on: ubuntu-latest
     timeout-minutes: 5
-    steps:
-      - uses: actions/checkout@v6
 
-      - name: Rebuild the activity block
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v7
+
+      - name: Rebuild activity block
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GH_USERNAME: ${{ github.repository_owner }}
           MAX_LINES: "10"
           TIMEZONE: Asia/Kolkata
-          # SHOW_STARS: "true"    # uncomment to list repos you star
+          # SHOW_STARS: "true"
         run: python3 .github/scripts/update_activity.py
 
-      - name: Commit if the README changed
+      - name: Commit activity changes
         run: |
-          git config user.name  "github-actions[bot]"
+          git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
           if ! git diff --quiet -- README.md; then
             git add README.md
             git commit -m "⚡ Update README with recent activity"
             git push
-          elif [ $(( $(date +%s) - $(git log -1 --format=%ct) )) -gt $(( 50 * 86400 )) ]; then
-            # GitHub pauses scheduled workflows after 60 days without repo activity
+
+          elif [ $(( $(date +%s) - $(git log -1 --format=%ct) )) -gt $((50 * 86400)) ]; then
             git commit --allow-empty -m "chore: keep scheduled workflow active"
             git push
           fi

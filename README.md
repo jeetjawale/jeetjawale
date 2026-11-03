@@ -1,6 +1,25 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> I'm Jeet</h1>
-
 <p align="center">welcome to my corner of github</p>
+
+---
+
+#### `// currently`
+
+```bash
+$ cat ~/now.md
+
+
+[x] computer networks
+    routing, switching, VLANs, ACLs, NAT, IPv6, SDN
+[x] os & administration
+    windows server: AD, DNS, DHCP, GPO, powershell
+    linux: kickstart, samba, apache, ldap, bash
+[x] infra management & devops
+    ITIL, docker, kubernetes, jenkins
+    ansible, terraform, aws, prometheus
+[x] advanced programming
+    python (sockets, regex, oop), mysql
+```
 
 ---
 
@@ -75,6 +94,20 @@
 </p>
 
 ---
+
+
+#### `// activity`
+
+<!--START_SECTION:activity-->
+1. 🚀 Published release [Exercise 1.4 - The project, step 2](https://github.com/jeetjawale/devops-with-kubernetes-2026/releases/tag/1.4) in [jeetjawale/devops-with-kubernetes-2026](https://github.com/jeetjawale/devops-with-kubernetes-2026)
+2. 🚀 Published release [Exercise 1.3 - Declarative approach](https://github.com/jeetjawale/devops-with-kubernetes-2026/releases/tag/1.3) in [jeetjawale/devops-with-kubernetes-2026](https://github.com/jeetjawale/devops-with-kubernetes-2026)
+3. 🚀 Published release [Exercise 1.2 - The project, step 1](https://github.com/jeetjawale/devops-with-kubernetes-2026/releases/tag/1.2) in [jeetjawale/devops-with-kubernetes-2026](https://github.com/jeetjawale/devops-with-kubernetes-2026)
+4. 🚀 Published release [Exercise 1.1 - Getting started](https://github.com/jeetjawale/devops-with-kubernetes-2026/releases/tag/1.1) in [jeetjawale/devops-with-kubernetes-2026](https://github.com/jeetjawale/devops-with-kubernetes-2026)
+5. 🗣 Commented on [#15](https://github.com/jeetjawale/sysman/pull/15#issuecomment-5068417793) in [jeetjawale/sysman](https://github.com/jeetjawale/sysman)
+<!--END_SECTION:activity-->
+
+---
+
 
 #### `// signal`
 

@@ -1,25 +1,19 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> I'm Jeet</h1>
 <p align="center">welcome to my corner of github</p>
 
----
-
 #### `// currently`
 
-```bash
-$ cat ~/now.md
+🌐 **Breaking networks** — IPs, VLANs, routing, DNS & packet tracing
 
+🐧 **Living in the terminal** — Linux, servers, SSH & system administration
 
-[x] computer networks
-    routing, switching, VLANs, ACLs, NAT, IPv6, SDN
-[x] os & administration
-    windows server: AD, DNS, DHCP, GPO, powershell
-    linux: kickstart, samba, apache, ldap, bash
-[x] infra management & devops
-    ITIL, docker, kubernetes, jenkins
-    ansible, terraform, aws, prometheus
-[x] advanced programming
-    python (sockets, regex, oop), mysql
-```
+🐳 **Spinning containers** — Docker, Compose, Kubernetes & container networking
+
+⚙️ **Automating the boring stuff** — Ansible, Terraform, Jenkins & CI/CD
+
+📊 **Keeping an eye on things** — Prometheus, metrics, logs & monitoring
+
+🛠️ Mostly experimenting, breaking stuff, debugging and making it work again.
 
 ---
 

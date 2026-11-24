@@ -95,7 +95,6 @@
 <!--START_SECTION:activity-->
 1. ⬆️ Pushed [commits](https://github.com/jeetjawale/leetcode-submissions/commit/69cac23024234d4faf54f91f94cd42b8fe0ec179) to `main` in [jeetjawale/leetcode-submissions](https://github.com/jeetjawale/leetcode-submissions) — *Time: 2 ms \(18.97%\), Space: 19.4 MB \(9.09%\) - LeetHub* · <sub>2 Nov</sub>
 2. ⬆️ Pushed [1 commit](https://github.com/jeetjawale/neetcode-submissions/commit/bc5f60da36f6c1bada240e11023a85e638948e79) to `main` in [jeetjawale/neetcode-submissions](https://github.com/jeetjawale/neetcode-submissions) — *Add: concatenation-of-array - submission-1* · <sub>2 Nov</sub>
-3. ⬆️ Pushed [1 commit](https://github.com/jeetjawale/devops-with-kubernetes-2026/commit/aeb6bcc03e92b285fa056cfbba1342af73c94b36) to `main` in [jeetjawale/devops-with-kubernetes-2026](https://github.com/jeetjawale/devops-with-kubernetes-2026) — *Complete exercise 1.2: Todo app* · <sub>23 Oct</sub>
 <!--END_SECTION:activity-->
 
 ---
